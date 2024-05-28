@@ -9,5 +9,4 @@ Data was sourced from
   SELECT* FROM TABLE 1
   WHERECONITION= MET
   ```
-*Thank*
-**You**
+  ![](133593073669319494.jpg)
